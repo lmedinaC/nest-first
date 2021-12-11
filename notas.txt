@@ -1,0 +1,13 @@
+INSTALE > UUID -> PROVEE UNIQUE RANDOM ID
+	> CLASS-VALIDATOR -> PROVEE Clases de validacion (pipes-validation)
+	> CLASS-TRANSFORMER -> provee una clase de parseo (pipes-Parse)
+	> npm i typeorm @nestjs/typeorm pg  							para las entidades
+	> npm i bcrypt 													para la encriptación
+	> npm i @nestjs/jwt @nestjs/passport passport passport-jwt		para el passport con jwt atuenticación
+	> npm i @types/passport-jwt										para el passport con jwt atuenticación
+
+
+POSTRGRES: 
+	PASS: 123456
+	passBD: postgres
+	
